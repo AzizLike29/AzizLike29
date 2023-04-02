@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Informatics Engineering, Pelita Bangsa University**
 
-- 📝 I regularly write articles on [https://abdulaziz-85.blogspot.com/](https://abdulaziz-85.blogspot.com/)
+- 📝 I actively play blogger [https://abdulaziz-85.blogspot.com/](https://abdulaziz-85.blogspot.com/)
 
 - 📫 How to reach me **abdulfirdaus590@gmail.com**
 
