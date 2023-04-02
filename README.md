@@ -1,5 +1,5 @@
 ![logo](https://github.com/AzizLike29/AzizLike29/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Abdul Aziz Firdaus</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Abdul Aziz Firdaus</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
