@@ -1,3 +1,4 @@
+![logo](https://github.com/AzizLike29/AzizLike29/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Aziz Firdaus</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
