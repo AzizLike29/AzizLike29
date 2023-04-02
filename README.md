@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizlike29&label=Profile%20views&color=0e75b6&style=flat" alt="azizlike29" /> </p>
 
-- 🌱 I’m currently learning **Informatics Engineering, Pelita Bangsa University**
+- 🏫 I’m currently learning **Informatics Engineering, Pelita Bangsa University**
 
 - 📝 I actively play blogger [https://abdulaziz-85.blogspot.com/](https://abdulaziz-85.blogspot.com/)
 
