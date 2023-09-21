@@ -1,7 +1,8 @@
 ![logo](https://github.com/AzizLike29/AzizLike29/blob/main/Banner.png)
 
 <div align="center">
-<h1>Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm <a href='https://instagram.com/abdulaaziz011'> Abdul Aziz Firdaus</a></h1></div>
+<h1>Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm <a href='https://instagram.com/abdulaaziz011'> Abdul Aziz Firdaus</a></h1>
+</div>
   
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
