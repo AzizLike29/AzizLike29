@@ -22,6 +22,8 @@
 
 <div align="center">
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -47,6 +49,8 @@
 </p>
 </div>
 
+---
+
 ## 💻 Languages and Tools
 
 <p>
@@ -69,15 +73,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=azizlike29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  height="165"
-/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AzizLike29&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <br><br>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizlike29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  height="165"
-/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AzizLike29&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
